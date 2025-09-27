@@ -1,0 +1,92 @@
+[
+  {
+    "customer-Id": "#1001",
+    "problem-subject": "Login Issues - Can't Access Account",
+    "problem-description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "customer-priority": "HIGH PRIORITY",
+    "ticket-status": "Open",
+    "buy-agent": "John Smith",
+    "buying-date": "1/15/2024"
+  },
+  {
+    "customer-Id": "#1002",
+    "problem-subject": "Payment Failed - Card Declined",
+    "problem-description": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing despite sufficient balance.",
+    "customer-priority": "HIGH PRIORITY",
+    "ticket-status": "Open",
+    "buy-agent": "Sarah Johnson",
+    "buying-date": "1/16/2024"
+  },
+  {
+    "customer-Id": "#1003",
+    "problem-subject": "Unable to Download Invoice",
+    "problem-description": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "customer-priority": "MEDIUM PRIORITY",
+    "ticket-status": "In-Progress",
+    "buy-agent": "Michael Brown",
+    "buying-date": "1/17/2024"
+  },
+  {
+    "customer-Id": "#1004",
+    "problem-subject": "Incorrect Billing Address",
+    "problem-description": "Customer's billing address shows a different city. They updated it but it still displays the old one.",
+    "customer-priority": "LOW PRIORITY",
+    "ticket-status": "Open",
+    "buy-agent": "Emily Davis",
+    "buying-date": "1/18/2024"
+  },
+  {
+    "customer-Id": "#1005",
+    "problem-subject": "App Crash on Launch",
+    "problem-description": "Customer reports that the mobile app crashes immediately upon opening on Android 13.",
+    "customer-priority": "HIGH PRIORITY",
+    "ticket-status": "Open",
+    "buy-agent": "David Wilson",
+    "buying-date": "1/19/2024"
+  },
+  {
+    "customer-Id": "#1006",
+    "problem-subject": "Refund Not Processed",
+    "problem-description": "Customer requested a refund two weeks ago but has not received the amount yet.",
+    "customer-priority": "MEDIUM PRIORITY",
+    "ticket-status": "In-Progress",
+    "buy-agent": "Sophia Taylor",
+    "buying-date": "1/20/2024"
+  },
+  {
+    "customer-Id": "#1007",
+    "problem-subject": "Two-Factor Authentication Issue",
+    "problem-description": "Customer is not receiving 2FA codes on their registered phone number.",
+    "customer-priority": "HIGH PRIORITY",
+    "ticket-status": "Open",
+    "buy-agent": "James Anderson",
+    "buying-date": "1/21/2024"
+  },
+  {
+    "customer-Id": "#1008",
+    "problem-subject": "Unable to Update Profile Picture",
+    "problem-description": "Customer tries to upload a new profile picture but gets 'Upload failed' error.",
+    "customer-priority": "LOW PRIORITY",
+    "ticket-status": "Open",
+    "buy-agent": "Olivia Martinez",
+    "buying-date": "1/22/2024"
+  },
+  {
+    "customer-Id": "#1009",
+    "problem-subject": "Subscription Auto-Renewal",
+    "problem-description": "Customer wants to enable auto-renewal for their subscription but the toggle is disabled.",
+    "customer-priority": "MEDIUM PRIORITY",
+    "ticket-status": "In-Progress",
+    "buy-agent": "Liam Thomas",
+    "buying-date": "1/23/2024"
+  },
+  {
+    "customer-Id": "#1010",
+    "problem-subject": "Missing Order Confirmation Email",
+    "problem-description": "Customer placed an order but didn't receive a confirmation email even though payment succeeded.",
+    "customer-priority": "MEDIUM PRIORITY",
+    "ticket-status": "Open",
+    "buy-agent": "Isabella Garcia",
+    "buying-date": "1/24/2024"
+  }
+]
